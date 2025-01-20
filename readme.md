@@ -26,7 +26,7 @@ A streamlined, pre-configured starter template for building full-stack applicati
 Clone the repository and start the server:
 
 ```bash
-git clone https://github.com/christophlesant/go-next-app.git
+git clone https://github.com/heavysudo/go-next-app.git
 cd go-next-app
 cd backend
 cd cmd
@@ -49,6 +49,6 @@ _Try refreshing if your computer takes a little longer to spin up._
 
 If you find this starter template helpful and would like to support my work, consider buying me a coffee! ☕️
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/christophlesant)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/heavysudo)
 
 Your contributions help me continue to improve this project and create more resources for the community. Thank you for your support!
